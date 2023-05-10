@@ -1,4 +1,5 @@
 ###Olá! Seja bem-vindo ao meu perfil no GitHub, sou a Sarah.
+
 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
 📚 Já concluí cursos de HTML, CSS e JavaScript e atualmente estou focada em aprender ReactJS.
