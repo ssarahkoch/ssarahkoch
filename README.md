@@ -1,4 +1,4 @@
-###Olá! Seja bem-vindo ao meu perfil no GitHub, sou a Sarah.
+## Olá! Seja bem-vindo ao meu perfil no GitHub, sou a Sarah.
 
 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
