@@ -2,7 +2,7 @@
 
 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
-📚 Já concluí cursos de HTML, CSS e JavaScript e atualmente estou focada em aprender ReactJS.
+📚 Já concluí cursos de HTML, CSS e JavaScript e no momento estou focada em aprender ReactJS.
 
 💻 Sou uma entusiasta da programação e estou constantemente buscando aprimorar minhas habilidades em desenvolvimento web.
 
