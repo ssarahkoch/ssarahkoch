@@ -1,8 +1,8 @@
 ## Olá! Seja bem-vindo ao meu perfil no GitHub, sou a Sarah.
 
-🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+🌱 Formada em Análise e Desenvolvimento de Sistemas na Estácio.
 
-📚 Já concluí cursos de HTML, CSS e JavaScript e no momento estou focada em aprender ReactJS e NodeJS.
+📚 Já concluí cursos de HTML, CSS, JavaScript, ReactJS e NodeJS.
 
 💻 Sou uma entusiasta da programação e estou constantemente buscando aprimorar minhas habilidades em desenvolvimento web.
 
